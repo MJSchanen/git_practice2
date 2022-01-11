@@ -1,0 +1,4 @@
+this is an awesome file I added diretly from Github.com
+And now I am about to tcommit directly to Github.com remote replsotory
+This is not somethiing we would do normally
+We are just trying simulate a situation where remore repository histoyr
